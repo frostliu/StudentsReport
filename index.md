@@ -2,6 +2,9 @@
 
 
 * 2019-01-11，李金凤, [Domain Adaptation with Few Labeled Source Samples by Graph Regularization]()
+* 2019-01-04，邵帅，CRC、SRC算法介绍
+* 2019-01-04，李天宝，An image-based virtual try-on network
+---
 * 2018-12-21，邵倩倩，[图像自动标注]()
 * 2018-12-21，马学琦，[Research based on manifold regularized semi-supervised learning]()
 * 2018-12-21，王颖慧，[基于RPCA地震记录去躁]()
@@ -25,5 +28,4 @@
 * 2018-09-28，傅司超，[图卷积神经网络]()
 * 2018-09-28，孟洁，[核学习的分类算法]()
 * 2018-09-21，王博阳，[非负矩阵分解]()
-* 
 
