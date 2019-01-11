@@ -1,6 +1,8 @@
 ---
 
 ### 2019
+* 2019-01-18，王博阳，
+* 2019-01-18，张厚德，
 * 2019-01-11，邵帅，ADMM
 * 2019-01-11，李金凤, [Domain Adaptation with Few Labeled Source Samples by Graph Regularization]()
 * 2019-01-04，邵帅，CRC、SRC算法介绍
