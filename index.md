@@ -2,12 +2,12 @@
 
 ### 2019
 * 2019-01-25，傅司超，
-* 2019-01-25，王博阳，压缩感知重构贪婪迭代算法
-* 2019-01-18，张厚德，
-* 2019-01-11，邵帅，ADMM
+* 2019-01-25，王博阳，[压缩感知重构贪婪迭代算法]()
+* 2019-01-18，张厚德，[压缩感知重构算法之贪婪迭代算法]()
+* 2019-01-11，邵帅，[ADMM]()
 * 2019-01-11，李金凤, [Domain Adaptation with Few Labeled Source Samples by Graph Regularization]()
 * 2019-01-04，邵帅，CRC、SRC算法介绍
-* 2019-01-04，李天宝，An image-based virtual try-on network
+* 2019-01-04，李天宝，[An image-based virtual try-on network]()
 
 ### 2018
 * 2018-12-21，邵倩倩，[图像自动标注]()
