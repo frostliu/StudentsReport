@@ -32,5 +32,5 @@
 * 2018-10-12，谢文阳，[视觉图像分类方法用于遥感图像和LC-KSVD算法的词典学习]()
 * 2018-09-28，傅司超，[图卷积神经网络]()
 * 2018-09-28，孟洁，[核学习的分类算法]()
-* 2018-09-21，王博阳，[非负矩阵分解](StudentsReport/StudentsReport_PPT/20180921-王博阳-非负矩阵分解.pptx)
+* 2018-09-21，王博阳，[非负矩阵分解](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180921-%E7%8E%8B%E5%8D%9A%E9%98%B3-%E9%9D%9E%E8%B4%9F%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3.pptx)
 
