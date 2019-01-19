@@ -11,6 +11,8 @@
 * 2019-01-04，邵帅，[CRC、SRC算法介绍](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190104-%E9%82%B5%E5%B8%85-CRC%E5%92%8CSRC%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D.pptx)
 * 2019-01-04，李天宝，[An image-based virtual try-on network](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190104-%E6%9D%8E%E5%A4%A9%E5%AE%9D%2C-An%20image-based%20virtual%20try%20on-network.pptx)
 
+[返回顶部](#欢迎您前来访问)
+
 ### 2018年
 * 2018-12-21，邵倩倩，[图像自动标注](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20181221-%E9%82%B5%E5%80%A9%E5%80%A9-%E5%9B%BE%E5%83%8F%E8%87%AA%E5%8A%A8%E6%A0%87%E6%B3%A8.pptx)
 * 2018-12-21，马学琦，[Research based on manifold regularized semi-supervised learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20181221-%E9%A9%AC%E5%AD%A6%E7%90%A6-Research%20based%20on%20manifold%20regularized%20semi-supervised%20learning.pptx)
