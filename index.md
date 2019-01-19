@@ -1,6 +1,6 @@
 ---
 
-### 2019
+### 2019年
 * 2019-01-25，傅司超，
 * 2019-01-25，王博阳, 
 * 2019-01-18，张厚德，[压缩感知重构算法之贪婪迭代算法](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/201901118-%E5%BC%A0%E5%8E%9A%E5%BE%B7-%E5%8E%8B%E7%BC%A9%E6%84%9F%E7%9F%A5%E9%87%8D%E6%9E%84%E7%AE%97%E6%B3%95%E4%B9%8B%E8%B4%AA%E5%A9%AA%E8%BF%AD%E4%BB%A3%E7%AE%97%E6%B3%95.pptx)
@@ -9,7 +9,7 @@
 * 2019-01-04，邵帅，[CRC、SRC算法介绍](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190104-%E9%82%B5%E5%B8%85-CRC%E5%92%8CSRC%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D.pptx)
 * 2019-01-04，李天宝，[An image-based virtual try-on network](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190104-%E6%9D%8E%E5%A4%A9%E5%AE%9D%2C-An%20image-based%20virtual%20try%20on-network.pptx)
 
-### 2018
+### 2018年
 * 2018-12-21，邵倩倩，[图像自动标注](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20181221-%E9%82%B5%E5%80%A9%E5%80%A9-%E5%9B%BE%E5%83%8F%E8%87%AA%E5%8A%A8%E6%A0%87%E6%B3%A8.pptx)
 * 2018-12-21，马学琦，[Research based on manifold regularized semi-supervised learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20181221-%E9%A9%AC%E5%AD%A6%E7%90%A6-Research%20based%20on%20manifold%20regularized%20semi-supervised%20learning.pptx)
 * 2018-12-21，王颖慧，[基于RPCA地震记录去躁](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20181221-%E7%8E%8B%E9%A2%96%E6%85%A7-%E5%9F%BA%E4%BA%8ERPCA%E5%9C%B0%E9%9C%87%E8%AE%B0%E5%BD%95%E5%8E%BB%E8%BA%81.pptx)
