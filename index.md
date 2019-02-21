@@ -8,7 +8,9 @@
 * [Conference:International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
   * Paper submission: June 15, 2019.
 * [Conference:International Symposium on ArtificialIntelligence and Robotics (ISAIR 2019)](https://isair.site/)
-  * Paper submission: March 1, 2019.
+  * Special session paper submission: March 1, 2019.
+  * Regular paper submissions: April 30, 2019.
+* 
 
 [Top](#call-for-papers)
 
