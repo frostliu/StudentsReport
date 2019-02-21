@@ -6,14 +6,14 @@
 ## Call for papers
 （期刊/会议/截稿日期/网址）
 * [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
-  * Paper submission: June 15, 2019.
+  * Paper submission deadline: June 15, 2019.
 * [Conference: International Symposium on ArtificialIntelligence and Robotics (ISAIR 2019)](https://isair.site/)
-  * Special session paper submission: March 1, 2019.
-  * Regular paper submissions: April 30, 2019.
+  * Special session paper submission deadline: March 1, 2019.
+  * Regular paper submissions deadline: April 30, 2019.
 * [Conference: International Workshop On Compact and Efficient Feature Representation and Learning in Computer Vision (CEFRL 2019)](http://www.ee.oulu.fi/~lili/CEFRLatCVPR2019.html?tdsourcetag=s_pcqq_aiomsg)
-  * Special session paper submission: March 12, 2019.
+  * Paper submission: March 12, 2019.
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
-  * Paper submission: March 08, 2019.
+  * Paper submission deadline: March 08, 2019.
   * IF=11.541(CCF A类).
 
 [Top](#call-for-papers)
