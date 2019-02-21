@@ -9,6 +9,10 @@
   * Paper submission: June 15, 2019.
 * 
 
+
+
+* [2019年度机器学习49个顶级开源工程汇总](https://mp.weixin.qq.com/s/SRKBLw5bckvUaDizrn88Iw?tdsourcetag=s_pcqq_aiomsg)
+
 [返回顶部](#call-for-papers)
 
 ---
