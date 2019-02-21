@@ -5,6 +5,7 @@
 ---
 ## Call for papers
 （期刊/会议/截稿日期/网址）
+* [Conference:International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
 
 [返回顶部](#call-for-papers)
 
