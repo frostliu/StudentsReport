@@ -10,7 +10,7 @@
 * [Conference: International Symposium on ArtificialIntelligence and Robotics (ISAIR 2019)](https://isair.site/)
   * Special session paper submission deadline: March 1, 2019.
   * Regular paper submissions deadline: April 30, 2019.
-* [Conference: International Workshop On Compact and Efficient Feature Representation and Learning in Computer Vision (CEFRL 2019)](http://www.ee.oulu.fi/~lili/CEFRLatCVPR2019.html?tdsourcetag=s_pcqq_aiomsg)
+* [Conference: International Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision (CEFRL 2019)](http://www.ee.oulu.fi/~lili/CEFRLatCVPR2019.html?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: March 12, 2019.    
 * [Conference: International Conference on Systems, Man, and Cybernetics (IEEE SMC 2019)](http://smc2019.org/)
   * Regular and special session paper submission deadline: March 31, 2019. 
