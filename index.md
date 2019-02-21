@@ -9,13 +9,13 @@
   * Paper submission: June 15, 2019.
 * 
 
-[返回顶部](#call-for-papers)
+[Top](#call-for-papers)
 
 ---
 ## 学习资源
 * [2019年度机器学习49个顶级开源工程汇总](https://mp.weixin.qq.com/s/SRKBLw5bckvUaDizrn88Iw?tdsourcetag=s_pcqq_aiomsg)
 
-[返回顶部](#学习资源)
+[Top](#学习资源)
 
 ---
 ## 课题组报告
@@ -27,7 +27,7 @@
 * 2019-01-04，邵帅，[CRC、SRC算法介绍](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190104-%E9%82%B5%E5%B8%85-CRC%E5%92%8CSRC%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D.pptx)
 * 2019-01-04，李天宝，[An image-based virtual try-on network](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190104-%E6%9D%8E%E5%A4%A9%E5%AE%9D%2C-An%20image-based%20virtual%20try%20on-network.pptx)
 
-[返回顶部](#课题组报告)
+[Top](#课题组报告)
 
 ### 2018年
 * 2018-12-21，邵倩倩，[图像自动标注](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20181221-%E9%82%B5%E5%80%A9%E5%80%A9-%E5%9B%BE%E5%83%8F%E8%87%AA%E5%8A%A8%E6%A0%87%E6%B3%A8.pptx)
@@ -54,4 +54,4 @@
 * 2018-09-28，孟洁，[核学习的分类算法](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180928-%E5%AD%9F%E6%B4%81-%E6%A0%B8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95.pptx)
 * 2018-09-21，王博阳，[非负矩阵分解](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180921-%E7%8E%8B%E5%8D%9A%E9%98%B3-%E9%9D%9E%E8%B4%9F%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3.pptx)
 
-[返回顶部](#课题组报告)
+[Top](#课题组报告)
