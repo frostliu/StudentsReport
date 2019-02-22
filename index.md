@@ -14,6 +14,7 @@
   * Paper submission deadline: March 12, 2019.    
 * [Conference: International Conference on Systems, Man, and Cybernetics (IEEE SMC 2019)](http://smc2019.org/)
   * Regular and special session paper submission deadline: March 31, 2019. 
+  
 ### Journals
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: March 08, 2019.
