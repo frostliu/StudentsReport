@@ -14,6 +14,8 @@
   * Paper submission deadline: March 12, 2019.    
 * [Conference: International Conference on Systems, Man, and Cybernetics (IEEE SMC 2019)](https://frostliu.github.io/smc2019)
   * Regular and special session paper submission deadline: March 31, 2019. 
+* [Conference: Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)](https://mp.weixin.qq.com/s/Qw5zBw46vIniC3e4NNKC5Q)
+  * Paper submission deadline: April 15, 2019. 
   
 ### Journals
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
