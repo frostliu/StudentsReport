@@ -16,7 +16,9 @@
   * Regular paper submissions deadline: April 30, 2019.
 * [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
   * Paper submission deadline: June 15, 2019.
-  
+* [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://iscide.njust.edu.cn/)
+  * Full paper and special session submission deadline: May 10, 2019.  
+   
 ### Journals
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: March 08, 2019.
