@@ -14,7 +14,7 @@
 * [Conference: International Symposium on ArtificialIntelligence and Robotics (ISAIR 2019)](https://isair.site/)
   * Special session paper submission deadline: March 1, 2019.
   * Regular paper submissions deadline: April 30, 2019.
-* [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://iscide.njust.edu.cn/)
+* [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
   * Full paper and special session submission deadline: May 10, 2019.  
 * [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
   * Paper submission deadline: June 15, 2019.
