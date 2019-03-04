@@ -18,6 +18,7 @@
   * Full paper and special session submission deadline: May 10, 2019.  
 * [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
   * Paper submission deadline: June 15, 2019.
+* [Conference: 视觉与学习青年学者研讨会 (VALSE 2019)](http://valse2019.org/#/)
    
 ### Journals
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
