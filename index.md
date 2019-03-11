@@ -5,6 +5,8 @@
 ---
 ## Call for papers
 ### Conferences
+* [Conference: International Conference on Affective Computing and Intelligent Interaction (ACII 2019)](http://acii-conf.org/2019/)
+  * 
 * [Conference: 视觉与学习青年学者研讨会 (VALSE 2019)](http://valse2019.org/#/)
 * [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
   * Paper submission deadline: June 15, 2019.
