@@ -8,6 +8,7 @@
 * [Conference: International Conference on Affective Computing and Intelligent Interaction (ACII 2019)](http://acii-conf.org/2019/)
   * Main conference paper submission deadline: 12 April, 2019.
 * [Conference: 视觉与学习青年学者研讨会 (VALSE 2019)](http://valse2019.org/#/)
+  * Registration deadline: 12:00, 13 March, 2019.
 * [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
   * Paper submission deadline: June 15, 2019.
 * [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
