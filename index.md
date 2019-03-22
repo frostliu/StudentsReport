@@ -41,6 +41,7 @@
 ---
 ## 课题组报告
 ### 2019年
+* 2019-03-21，邵帅，[]()
 * 2019-03-14，李金凤，[manifold transfer](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190314-%E6%9D%8E%E9%87%91%E5%87%A4-manifold%20transfer.pptx)
 * 2019-03-07，李皎月，[image SR](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190307-%E6%9D%8E%E7%9A%8E%E6%9C%88-image%20SR.pptx)
 * 2019-03-01，潘宜辰，[基于特征的图信息与2DPCA](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190301-%E6%BD%98%E5%AE%9C%E8%BE%B0-%E5%9F%BA%E4%BA%8E%E7%89%B9%E5%BE%81%E7%9A%84%E5%9B%BE%E4%BF%A1%E6%81%AF%E4%B8%8E2DPCA.pptx)
