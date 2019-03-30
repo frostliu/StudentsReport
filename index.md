@@ -9,7 +9,7 @@
   * Paper submission deadline: June 15, 2019.
 * [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
   * Full paper and special session submission deadline: May 10, 2019. 
-* [Conference: 中国多媒体大会（ChinaMM2019） (ISAIR 2019)](http://mm.ccf.org.cn/chinamm/2019/)
+* [Conference: 中国多媒体大会（ChinaMM2019）](http://mm.ccf.org.cn/chinamm/2019/)
   * Paper submissions deadline: April 30, 2019.  
 * [Conference: International Symposium on ArtificialIntelligence and Robotics (ISAIR 2019)](https://isair.site/)
   * Special session paper submission deadline: March 1, 2019.
