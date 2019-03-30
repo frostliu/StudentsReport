@@ -14,14 +14,14 @@
   * Regular paper submissions deadline: April 30, 2019.
 * [Conference: Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)](http://www.prcv2019.com/#/)
   * Paper submission deadline: April 15, 2019. 
-* [Conference: International Conference on Affective Computing and Intelligent Interaction (ACII 2019)](http://acii-conf.org/2019/)
-  * Main conference paper submission deadline: 12 April, 2019.
 * [Conference: International Conference on Systems, Man, and Cybernetics (IEEE SMC 2019)](https://frostliu.github.io/smc2019)
-  * Regular and special session paper submission deadline: March 31, 2019. 
+  * Regular and special session paper submission deadline: April 14, 2019. 
+* [Conference: International Conference on Affective Computing and Intelligent Interaction (ACII 2019)](http://acii-conf.org/2019/)
+  * Main conference paper submission deadline: April 12, 2019.
   
 ### Deadline Conferences
 * [Conference: 视觉与学习青年学者研讨会 (VALSE 2019)](http://valse2019.org/#/)
-  * Registration deadline: 12:00, 13 March, 2019.
+  * Registration deadline: March 13, 2019.
 * [Conference: International Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision (CEFRL 2019)](http://www.ee.oulu.fi/~lili/CEFRLatCVPR2019.html?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: March 12, 2019.    
   
