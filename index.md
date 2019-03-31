@@ -16,6 +16,10 @@
   * Regular paper submissions deadline: April 30, 2019.
 * [Conference: Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)](http://www.prcv2019.com/#/)
   * Paper submission deadline: April 15, 2019. 
+* [Conference: CCF International Conference on Artificial Intelligence (CCF-ICAI 2019)](http://ccficai2019.cumt.edu.cn/?tdsourcetag=s_pcqq_aiomsg)
+  * Paper submission deadline: April 15, 2019. 
+* [Conference: CCF Conference on Artificial Intelligence (CCFAI 2019)](http://ccfai2019.cumt.edu.cn/?tdsourcetag=s_pcqq_aiomsg)
+  * Paper submission deadline: April 15, 2019. 
 * [Conference: International Conference on Systems, Man, and Cybernetics (IEEE SMC 2019)](https://frostliu.github.io/smc2019)
   * Regular and special session paper submission deadline: April 14, 2019. 
 * [Conference: International Conference on Affective Computing and Intelligent Interaction (ACII 2019)](http://acii-conf.org/2019/)
