@@ -47,7 +47,7 @@
 ---
 ## 课题组报告
 ### 2019年
-* 2019-04-11， 昝畅通, []()
+* 2019-04-11， 昝畅通, [基于深度神经网络的谱聚类算法研究](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190411-%E6%98%9D%E7%95%85%E9%80%9A-%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E8%B0%B1%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pptx)
 * 2019-04-11， 彭旭阳，[基于生成对抗网络的反演方法](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190411-%E5%BD%AD%E6%97%AD%E9%98%B3-%E5%9F%BA%E4%BA%8E%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%E7%9A%84%E5%8F%8D%E6%BC%94%E6%96%B9%E6%B3%95.pptx)
 * 2019-04-04， 李天宝，[]()
 * 2019-03-28，潘宜辰，[如何写论文](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190328-%E6%BD%98%E5%AE%9C%E6%99%A8%E8%BE%B0-%E5%A6%82%E4%BD%95%E5%86%99%E8%AE%BA%E6%96%87.pptx)
