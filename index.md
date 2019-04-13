@@ -58,7 +58,7 @@
 * 2019-01-25，傅司超，[基于图卷积神经网络的半监督分类](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190125-%E5%82%85%E5%8F%B8%E8%B6%85-%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95.pptx)
 * 2019-01-18，张厚德，[压缩感知重构算法之贪婪迭代算法](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/201901118-%E5%BC%A0%E5%8E%9A%E5%BE%B7-%E5%8E%8B%E7%BC%A9%E6%84%9F%E7%9F%A5%E9%87%8D%E6%9E%84%E7%AE%97%E6%B3%95%E4%B9%8B%E8%B4%AA%E5%A9%AA%E8%BF%AD%E4%BB%A3%E7%AE%97%E6%B3%95.pptx)
 * 2019-01-11，邵帅，[ADMM](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190111-%E9%82%B5%E5%B8%85-ADMM.pptx)
-* 2019-01-11，李金凤, [Domain Adaptation with Few Labeled Source Samples by Graph Regularization](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190110-%E6%9D%8E%E9%87%91%E5%87%A4-Domain%20Adaptation%20with%20Few%20Labeled%20Source%20Samples%20by%20Graph%20Regularization.pptx)
+* 2019-01-11，李金凤， [Domain Adaptation with Few Labeled Source Samples by Graph Regularization](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190110-%E6%9D%8E%E9%87%91%E5%87%A4-Domain%20Adaptation%20with%20Few%20Labeled%20Source%20Samples%20by%20Graph%20Regularization.pptx)
 * 2019-01-04，邵帅，[CRC、SRC算法介绍](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190104-%E9%82%B5%E5%B8%85-CRC%E5%92%8CSRC%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D.pptx)
 * 2019-01-04，李天宝，[An image-based virtual try-on network](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190104-%E6%9D%8E%E5%A4%A9%E5%AE%9D%2C-An%20image-based%20virtual%20try%20on-network.pptx)
 
