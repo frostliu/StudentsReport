@@ -22,10 +22,10 @@
   * Paper submission deadline: April 15, 2019. 
 * [Conference: CCF Conference on Artificial Intelligence (CCFAI 2019)](http://ccfai2019.cumt.edu.cn/?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: April 15, 2019. 
-* [Conference: International Conference on Affective Computing and Intelligent Interaction (ACII 2019)](http://acii-conf.org/2019/)
-  * Main conference paper submission deadline: April 12, 2019.
   
 ### Deadline Conferences
+* [Conference: International Conference on Affective Computing and Intelligent Interaction (ACII 2019)](http://acii-conf.org/2019/)
+  * Main conference paper submission deadline: April 12, 2019.
 * [Conference: 视觉与学习青年学者研讨会 (VALSE 2019)](http://valse2019.org/#/)
   * Registration deadline: March 13, 2019.
 * [Conference: International Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision (CEFRL 2019)](http://www.ee.oulu.fi/~lili/CEFRLatCVPR2019.html?tdsourcetag=s_pcqq_aiomsg)
