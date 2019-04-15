@@ -5,6 +5,9 @@
 ---
 ## Call for papers
 ### Conferences
+* [Conference: ACM International Conference on Multimedia in Asia (ACM Multimedia Asia 2019)](http://www.acmmmasia.org/)
+  * Regular Paper submission deadline(Abstract)): July 12, 2019.
+  * Regular Paper submission deadline(Full paper PDF): July 19, 2019.
 * [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
   * Paper submission deadline: June 15, 2019.
 * [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
