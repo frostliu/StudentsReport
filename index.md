@@ -21,6 +21,7 @@
   * Paper submission deadline: April 30, 2019. 
 * [Conference: International Conference on Systems, Man, and Cybernetics (IEEE SMC 2019)](https://frostliu.github.io/smc2019)
   * Regular and special session paper submission deadline: April 28, 2019.
+  * CCF C类
   
 ### Deadline Conferences 
 * [Conference: International Conference on Affective Computing and Intelligent Interaction (ACII 2019)](http://acii-conf.org/2019/)
@@ -45,6 +46,7 @@
 ---
 ## 学习资源
 * [2019年度机器学习49个顶级开源工程汇总](https://mp.weixin.qq.com/s/SRKBLw5bckvUaDizrn88Iw?tdsourcetag=s_pcqq_aiomsg)
+* [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
 
 [Top](#学习资源)
 
