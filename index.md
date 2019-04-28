@@ -1,9 +1,7 @@
----
-
 # 欢迎您前来访问
+|[报告成员简介](#报告成员简介)|[Call for papers](#call-for-papers)|[学习资源](#学习资源)|[每周进展报告](#每周进展报告)|
 
 ---
-
 ## 报告成员简介
 ### 2017级
 ### 2018级
@@ -39,8 +37,7 @@
   * Paper submission deadline: March 24, 2019.  
 * [Conference: 视觉与学习青年学者研讨会 (VALSE 2019)](http://valse2019.org/#/)
   * Registration deadline: March 13, 2019.
-  
-  
+   
 ### Deadline Journals
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: March 08, 2019.
