@@ -3,7 +3,7 @@
 # 欢迎您前来访问
 
 ---
-## 课题组报告成员简介
+## 报告成员简介
 
 ## Call for papers
 ### Conferences
@@ -53,7 +53,7 @@
 [Top](#学习资源)
 
 ---
-## 课题组每周进展报告
+## 每周进展报告
 ### 2019年
 * 2019-04-25，陈大磊，[SNMFNET](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190425-%E9%99%88%E5%A4%A7%E7%A3%8A-SNMFNET.pptx)
 * 2019-04-25，邵倩倩，[Graph Laplacian Regularized for Image Annotation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190425-%E9%82%B5%E5%80%A9%E5%80%A9-Graph%20Laplacian%20Regularized%20for%20Image%20Annotation.pptx)
@@ -97,4 +97,4 @@
 * 2018-09-28，孟洁，[核学习的分类算法](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180928-%E5%AD%9F%E6%B4%81-%E6%A0%B8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95.pptx)
 * 2018-09-21，王博阳，[非负矩阵分解](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180921-%E7%8E%8B%E5%8D%9A%E9%98%B3-%E9%9D%9E%E8%B4%9F%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3.pptx)
 
-[Top](#课题组报告)
+[Top](#每周进展报告)
