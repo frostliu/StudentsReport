@@ -53,7 +53,7 @@
 [Top](#学习资源)
 
 ---
-## 课题组报告
+## 课题组每周进展报告
 ### 2019年
 * 2019-04-25，陈大磊，[SNMFNET](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190425-%E9%99%88%E5%A4%A7%E7%A3%8A-SNMFNET.pptx)
 * 2019-04-25，邵倩倩，[Graph Laplacian Regularized for Image Annotation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190425-%E9%82%B5%E5%80%A9%E5%80%A9-Graph%20Laplacian%20Regularized%20for%20Image%20Annotation.pptx)
