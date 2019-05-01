@@ -13,12 +13,12 @@
 * [Conference: International Symposium on Artificial Intelligence and Robotics (ISAIR 2019)](https://isair.site/)
   * Special session paper submission deadline: April 1, 2019.
   * Regular paper submissions deadline: May 25, 2019.
+* [Conference: 中国多媒体大会（ChinaMM2019）](http://mm.ccf.org.cn/chinamm/2019/)
+  * Paper submissions deadline: May 15, 2019.
 * [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
   * Full paper and special session submission deadline: May 10, 2019. 
   
-### Deadline Conferences 
-* [Conference: 中国多媒体大会（ChinaMM2019）](http://mm.ccf.org.cn/chinamm/2019/)
-  * Paper submissions deadline: April 30, 2019.  
+### Deadline Conferences   
 * [Conference: Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)](http://www.prcv2019.com/#/)
   * Paper submission deadline: April 30, 2019. 
 * [Conference: International Conference on Systems, Man, and Cybernetics (IEEE SMC 2019)](https://frostliu.github.io/smc2019)
