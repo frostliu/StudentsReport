@@ -1,5 +1,5 @@
 # 欢迎您前来访问
-|[Call for papers](#call-for-papers)|[学习资源](#学习资源)|[报告成员简介](#报告成员简介)|[每周进展报告](#每周进展报告)|
+|[Call for papers](#call-for-papers)|[学习资源](#学习资源)|[每周进展报告](#每周进展报告)|
 
 ---
 
@@ -52,9 +52,6 @@
 [Top](#学习资源)
 
 ---
-
-## 报告成员简介
-
 ## 每周进展报告
 ### 2019年
 * 2019-04-25，陈大磊，[SNMFNET](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190425-%E9%99%88%E5%A4%A7%E7%A3%8A-SNMFNET.pptx)
