@@ -61,11 +61,11 @@
 
 ### 硕士
 #### 2017级
-* 傅司超:Graph Neural Network
+* 傅司超: Graph Neural Network
 * 谢文阳 
 
 #### 2018级
-* 李金凤：Domain Adaptation
+* 李金凤: Domain Adaptation
 * 潘宜辰: Graph Principal Component Analysis
 * 赵贵啸
 * 邵倩倩
@@ -74,6 +74,8 @@
 * 张厚德
 
 #### 2019级
+* 昝畅通
+* 彭旭阳
 
 [Top](#报告人员简介)
 
