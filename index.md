@@ -1,5 +1,5 @@
 # 欢迎您前来访问
-|[Call for papers](#call-for-papers)|[学习资源](#学习资源)|[每周进展报告](#每周进展报告)|
+|[Call for papers](#call-for-papers)|[学习资源](#学习资源)|[报告人员简介](#报告人员简介)|[每周进展报告](#每周进展报告)|
 
 ---
 
@@ -50,6 +50,9 @@
 * [最新版《中国计算机学会推荐国际学术会议和期刊目录》](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
 
 [Top](#学习资源)
+
+---
+## 报告人员简介
 
 ---
 ## 每周进展报告
