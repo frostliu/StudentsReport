@@ -63,6 +63,7 @@
 #### 2017级
 * 傅司超: Graph Neural Network
 * 谢文阳 
+* 张鑫
 
 #### 2018级
 * 李金凤: Domain Adaptation
