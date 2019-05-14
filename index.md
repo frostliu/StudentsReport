@@ -39,6 +39,7 @@
   * IF=11.541 (CCF A类)
   
 [Top](#call-for-papers)
+
 ---
 ## 学习资源
 * [2019年度机器学习49个顶级开源工程汇总](https://mp.weixin.qq.com/s/SRKBLw5bckvUaDizrn88Iw?tdsourcetag=s_pcqq_aiomsg)
