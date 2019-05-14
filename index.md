@@ -1,5 +1,5 @@
 # 欢迎您前来访问
-|[Call for papers](#call-for-papers)||[Call for papers1](#call-for-papers1)|[报告人员简介](#报告人员简介)|[每周进展报告](#每周进展报告)|
+|[Call for papers](#call-for-papers)|[Call for papers1](#call-for-papers1)|[报告人员简介](#报告人员简介)|[每周进展报告](#每周进展报告)|
 
 ---
 ## Call for papers
