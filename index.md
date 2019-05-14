@@ -1,8 +1,6 @@
 # 欢迎您前来访问
 |[Call for papers](#call-for-papers)|[学习资源](#学习资源)|[报告人员简介](#报告人员简介)|[每周进展报告](#每周进展报告)|
-
 ---
-
 ## Call for papers
 ### Conferences
 * [Conference: ACM International Conference on Multimedia in Asia (ACM Multimedia Asia 2019)](http://www.acmmmasia.org/)
@@ -19,7 +17,6 @@
   * Full paper and special session submission deadline: May 20, 2019. 
 * [Conference: 中国多媒体大会（ChinaMM2019）](http://mm.ccf.org.cn/chinamm/2019/)
   * Paper submissions deadline: May 15, 2019.
-  
 ### Deadline Conferences   
 * [Conference: Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)](http://www.prcv2019.com/#/)
   * Paper submission deadline: April 30, 2019. 
@@ -36,14 +33,11 @@
   * Paper submission deadline: March 24, 2019.  
 * [Conference: 视觉与学习青年学者研讨会 (VALSE 2019)](http://valse2019.org/#/)
   * Registration deadline: March 13, 2019.
-   
 ### Deadline Journals
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: March 08, 2019.
   * IF=11.541 (CCF A类)
-
 [Top](#call-for-papers)
-
 ---
 ## 学习资源
 * [2019年度机器学习49个顶级开源工程汇总](https://mp.weixin.qq.com/s/SRKBLw5bckvUaDizrn88Iw?tdsourcetag=s_pcqq_aiomsg)
