@@ -43,6 +43,7 @@
 ## 学习资源
 * [2019年度机器学习49个顶级开源工程汇总](https://mp.weixin.qq.com/s/SRKBLw5bckvUaDizrn88Iw?tdsourcetag=s_pcqq_aiomsg)
 * [最新版《中国计算机学会推荐国际学术会议和期刊目录》](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
+
 [Top](#学习资源)
 
 ---
@@ -67,6 +68,7 @@
 #### 2019级
 * 昝畅通
 * 彭旭阳
+
 [Top](#报告人员简介)
 
 ---
@@ -112,4 +114,5 @@
 * 2018-09-28，傅司超，[图卷积神经网络](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180928-%E5%82%85%E5%8F%B8%E8%B6%85-%E5%9B%BE%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.pptx)
 * 2018-09-28，孟洁，[核学习的分类算法](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180928-%E5%AD%9F%E6%B4%81-%E6%A0%B8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95.pptx)
 * 2018-09-21，王博阳，[非负矩阵分解](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180921-%E7%8E%8B%E5%8D%9A%E9%98%B3-%E9%9D%9E%E8%B4%9F%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3.pptx)
+
 [Top](#每周进展报告)
