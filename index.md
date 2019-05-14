@@ -51,7 +51,7 @@
 * [2019年度机器学习49个顶级开源工程汇总](https://mp.weixin.qq.com/s/SRKBLw5bckvUaDizrn88Iw?tdsourcetag=s_pcqq_aiomsg)
 * [最新版《中国计算机学会推荐国际学术会议和期刊目录》](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
 
-[Top](#学习资源)
+[Top](#resources)
 
 ---
 ## 报告人员简介
