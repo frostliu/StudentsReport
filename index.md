@@ -37,6 +37,7 @@
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: March 08, 2019.
   * IF=11.541 (CCF A类)
+  
 [Top](#call-for-papers)
 ---
 ## 学习资源
