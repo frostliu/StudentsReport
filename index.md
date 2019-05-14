@@ -36,15 +36,13 @@
 ### Deadline Journals
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: March 08, 2019.
-  * IF=11.541 (CCF A类)
-  
+  * IF=11.541 (CCF A类)  
 [Top](#call-for-papers)
 
 ---
 ## 学习资源
 * [2019年度机器学习49个顶级开源工程汇总](https://mp.weixin.qq.com/s/SRKBLw5bckvUaDizrn88Iw?tdsourcetag=s_pcqq_aiomsg)
 * [最新版《中国计算机学会推荐国际学术会议和期刊目录》](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
-
 [Top](#学习资源)
 
 ---
@@ -52,15 +50,12 @@
 ### 博士
 #### 2018级
 * 邵帅
-
 #### 2019级
-
 ### 硕士
 #### 2017级
 * 傅司超: Graph Neural Network
 * 谢文阳 
 * 张鑫
-
 #### 2018级
 * 李金凤: Domain Adaptation
 * 潘宜辰: Graph Principal Component Analysis
@@ -69,11 +64,9 @@
 * 李姣月
 * 王颖慧
 * 张厚德
-
 #### 2019级
 * 昝畅通
 * 彭旭阳
-
 [Top](#报告人员简介)
 
 ---
@@ -95,7 +88,6 @@
 * 2019-01-11，李金凤， [Domain Adaptation with Few Labeled Source Samples by Graph Regularization](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190110-%E6%9D%8E%E9%87%91%E5%87%A4-Domain%20Adaptation%20with%20Few%20Labeled%20Source%20Samples%20by%20Graph%20Regularization.pptx)
 * 2019-01-04，邵帅，[CRC、SRC算法介绍](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190104-%E9%82%B5%E5%B8%85-CRC%E5%92%8CSRC%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D.pptx)
 * 2019-01-04，李天宝，[An image-based virtual try-on network](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190104-%E6%9D%8E%E5%A4%A9%E5%AE%9D%2C-An%20image-based%20virtual%20try%20on-network.pptx)
-
 ### 2018年
 * 2018-12-21，邵倩倩，[图像自动标注](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20181221-%E9%82%B5%E5%80%A9%E5%80%A9-%E5%9B%BE%E5%83%8F%E8%87%AA%E5%8A%A8%E6%A0%87%E6%B3%A8.pptx)
 * 2018-12-21，马学琦，[Research based on manifold regularized semi-supervised learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20181221-%E9%A9%AC%E5%AD%A6%E7%90%A6-Research%20based%20on%20manifold%20regularized%20semi-supervised%20learning.pptx)
@@ -120,5 +112,4 @@
 * 2018-09-28，傅司超，[图卷积神经网络](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180928-%E5%82%85%E5%8F%B8%E8%B6%85-%E5%9B%BE%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.pptx)
 * 2018-09-28，孟洁，[核学习的分类算法](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180928-%E5%AD%9F%E6%B4%81-%E6%A0%B8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95.pptx)
 * 2018-09-21，王博阳，[非负矩阵分解](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20180921-%E7%8E%8B%E5%8D%9A%E9%98%B3-%E9%9D%9E%E8%B4%9F%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3.pptx)
-
 [Top](#每周进展报告)
