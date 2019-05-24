@@ -57,6 +57,8 @@
 
 ## 每周进展报告
 ### 2019年
+* 2019-05-24，昝畅通，[基于深度神经网络的谱聚类算法研究]()
+* 2019-05-24，彭旭阳，[基于生成对抗网络的反演方法](）
 * 2019-05-17，伊丽莎，基于矩阵回归的图像分类算法研究
 * 2019-05-17，马学琦，基于p-Laplacian的图像分类算法研究
 * 2019-04-25，陈大磊，[SNMFNET](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190425-%E9%99%88%E5%A4%A7%E7%A3%8A-SNMFNET.pptx)
