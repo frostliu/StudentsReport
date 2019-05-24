@@ -1,5 +1,5 @@
 # 欢迎您前来访问
-|[Call for papers](#call-for-papers)|[Resources](#resources)|[报告人员简介](#报告人员简介)|[每周进展报告](#每周进展报告)|
+|[Call for papers](#call-for-papers)|[Resources](#resources)|[每周进展报告](#每周进展报告)|
 
 ---
 ## Call for papers
@@ -54,33 +54,7 @@
 [Top](#resources)
 
 ---
-## 报告人员简介
-### 博士
-#### 2018级
-* 邵帅
 
-### 硕士
-#### 2017级
-* 傅司超: Graph Neural Network
-* 谢文阳 
-* 张鑫
-
-#### 2018级
-* 李金凤: Domain Adaptation
-* 潘宜辰: Graph Principal Component Analysis
-* 赵贵啸
-* 邵倩倩
-* 李姣月
-* 王颖慧
-* 张厚德
-
-#### 2019级
-* 昝畅通
-* 彭旭阳
-
-[Top](#报告人员简介)
-
----
 ## 每周进展报告
 ### 2019年
 * 2019-05-17，伊丽莎，基于矩阵回归的图像分类算法研究
