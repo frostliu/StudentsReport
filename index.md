@@ -11,11 +11,11 @@
   * Paper submission deadline: July 10, 2019.
 * [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
   * Paper submission deadline: June 15, 2019.
+  
+### Deadline Conferences  
 * [Conference: International Symposium on Artificial Intelligence and Robotics (ISAIR 2019)](https://isair.site/)
   * Special session paper submission deadline: April 1, 2019.
   * Regular paper submissions deadline: May 25, 2019.
-  
-### Deadline Conferences  
 * [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
   * Full paper and special session submission deadline: May 20, 2019. 
 * [Conference: 中国多媒体大会（ChinaMM2019）](http://mm.ccf.org.cn/chinamm/2019/)
