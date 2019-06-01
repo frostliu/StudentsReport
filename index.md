@@ -57,7 +57,7 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-06-01，赵贵啸通，[Speaker Recognition](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E8%B5%B5%E8%B4%B5%E5%95%B8-Speaker%20Recognition.ppt)
+* 2019-06-01，赵贵啸，[Speaker Recognition](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E8%B5%B5%E8%B4%B5%E5%95%B8-Speaker%20Recognition.ppt)
 * 2019-06-01，潘宜辰，[Principal Component Analysis on Graph](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%BD%98%E5%AE%9C%E8%BE%B0-Principal%20Component%20Analysis%20on%20Graph-Hessian.pptx)
 * 2019-06-01，李金凤，[Domain adaptation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%9D%8E%E9%87%91%E5%87%A4-Domain%20adaptation.pptx)
 * 2019-06-01，李皎月，[image SR](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%9D%8E%E7%9A%8E%E6%9C%88-image%20SR.pptx)
