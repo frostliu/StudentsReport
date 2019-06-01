@@ -57,10 +57,10 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-06-01，赵贵啸通，[Speaker Recognition]（https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E8%B5%B5%E8%B4%B5%E5%95%B8-Speaker%20Recognition.ppt）
-* 2019-06-01，潘宜辰，[Principal Component Analysis on Graph]（https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%BD%98%E5%AE%9C%E8%BE%B0-Principal%20Component%20Analysis%20on%20Graph-Hessian.pptx）
-* 2019-06-01，李金凤，[Domain adaptation]（https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%9D%8E%E9%87%91%E5%87%A4-Domain%20adaptation.pptx）
-* 2019-06-01，李皎月，[image SR]（https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%9D%8E%E7%9A%8E%E6%9C%88-image%20SR.pptx）
+* 2019-06-01，赵贵啸通，[Speaker Recognition](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E8%B5%B5%E8%B4%B5%E5%95%B8-Speaker%20Recognition.ppt)
+* 2019-06-01，潘宜辰，[Principal Component Analysis on Graph](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%BD%98%E5%AE%9C%E8%BE%B0-Principal%20Component%20Analysis%20on%20Graph-Hessian.pptx)
+* 2019-06-01，李金凤，[Domain adaptation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%9D%8E%E9%87%91%E5%87%A4-Domain%20adaptation.pptx)
+* 2019-06-01，李皎月，[image SR](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%9D%8E%E7%9A%8E%E6%9C%88-image%20SR.pptx)
 * 2019-05-24，昝畅通，[基于深度神经网络的谱聚类算法研究](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190524-%E6%98%9D%E7%95%85%E9%80%9A-%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E8%B0%B1%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pptx)
 * 2019-05-24，彭旭阳，[基于生成对抗网络的反演方法研究](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190524-%E5%BD%AD%E6%97%AD%E9%98%B3-%E5%9F%BA%E4%BA%8E%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%E7%9A%84%E5%8F%8D%E6%BC%94%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6.pptx)
 * 2019-05-17，伊丽莎，基于矩阵回归的图像分类算法研究
