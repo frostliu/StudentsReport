@@ -36,6 +36,10 @@
 * [Conference: 视觉与学习青年学者研讨会 (VALSE 2019)](http://valse2019.org/#/)
   * Registration deadline: March 13, 2019.
   
+### Journals
+* [Journal: Journal of Applied Remote Sensing: Special Issue on Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1#navBarAnchor)
+  * Paper submission deadline: October 31, 2019.
+  
 ### Deadline Journals
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: March 08, 2019.
