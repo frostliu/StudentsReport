@@ -9,11 +9,11 @@
   * Regular Paper submission deadline (Full paper PDF): July 19, 2019.
 * [Conference: IEEE Symposium on Explainable Data Analytics in Computational Intelligence (EDACI)](http://ssci2019.org/edaci.html)
   * Paper submission deadline: July 10, 2019.
-* [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
-  * Paper submission deadline: June 15, 2019.
 * [Conference: International Symposium on Artificial Intelligence and Robotics (ISAIR 2019)](https://isair.site/)
   * Special session paper submission deadline: April 1, 2019.
   * Regular paper submissions deadline: June 25, 2019.
+* [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
+  * Paper submission deadline: June 15, 2019.
   
 ### Deadline Conferences  
 * [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
