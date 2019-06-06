@@ -15,6 +15,11 @@
 * [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
   * Paper submission deadline: June 15, 2019.
   
+### Journals
+* [Journal: Journal of Applied Remote Sensing: Special Issue on Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1#navBarAnchor)
+  * Paper submission deadline: October 31, 2019.
+  * IF = 0.976
+  
 ### Deadline Conferences  
 * [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
   * Full paper and special session submission deadline: May 20, 2019. 
@@ -36,11 +41,6 @@
 * [Conference: 视觉与学习青年学者研讨会 (VALSE 2019)](http://valse2019.org/#/)
   * Registration deadline: March 13, 2019.
   
-### Journals
-* [Journal: Journal of Applied Remote Sensing: Special Issue on Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1#navBarAnchor)
-  * Paper submission deadline: October 31, 2019.
-  * IF = 0.976
-  
 ### Deadline Journals
 * [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
   * Paper submission deadline: March 08, 2019.
@@ -56,6 +56,7 @@
 * [最新版《中国计算机学会推荐国际学术会议和期刊目录》](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
 * [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks#surveypapers)
 * [公开数据集收集汇总](https://github.com/awesomedata/awesome-public-datasets)
+* [弱监督学习](https://zhuanlan.zhihu.com/p/34270286?utm_source=wechat_timeline&utm_medium=social&utm_oi=32108798017536&from=timeline&isappinstalled=0)
 
 [Top](#resources)
 
