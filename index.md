@@ -23,7 +23,7 @@
 ### Deadline Conferences  
 * [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
   * Full paper and special session submission deadline: May 20, 2019. 
-* [Conference: 中国多媒体大会（ChinaMM2019）](http://mm.ccf.org.cn/chinamm/2019/)
+* [Conference: 中国多媒体大会（ChinaMM2019）](http://mm.ccf.org.cn/chinamm/2019/index.php?s=/home/article/detail/id/1.html)
   * Paper submissions deadline: May 15, 2019.
 * [Conference: Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)](http://www.prcv2019.com/#/)
   * Paper submission deadline: April 30, 2019. 
