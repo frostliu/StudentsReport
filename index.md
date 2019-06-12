@@ -14,6 +14,8 @@
   * Regular paper submissions deadline: June 25, 2019.
 * [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
   * Paper submission deadline: June 15, 2019.
+* [Conference: The Fifth IEEE International Conference on Multimedia Big Data (BigMM 2019)](http://bigmm2019.org/?tdsourcetag=s_pcqq_aiomsg)
+  * Paper submission deadline: June 15, 2019.
   
 ### Journals
 * [Journal: Journal of Applied Remote Sensing: Special Issue on Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1#navBarAnchor)
