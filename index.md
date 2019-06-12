@@ -16,6 +16,8 @@
   * Paper submission deadline: June 15, 2019.
 * [Conference: International Conference on Multimedia Big Data (BigMM 2019)](http://bigmm2019.org/?tdsourcetag=s_pcqq_aiomsg)
   * Regular Paper submission deadline: June 15, 2019.
+  * Workshop on Machine Learning for Image analysis and Understanding Paper submission deadline: July 5, 2019.
+  * Workshop on Cross Modal Person Reidentification Paper submission deadline: July 10, 2019.
   
 ### Journals
 * [Journal: Journal of Applied Remote Sensing: Special Issue on Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1#navBarAnchor)
