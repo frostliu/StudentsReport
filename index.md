@@ -68,6 +68,7 @@
 
 ## 每周进展报告
 ### 2019年
+* 2019-06-13，邵帅，[]()
 * 2019-06-13，张厚德，[How good is my GAN](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190613-%E5%BC%A0%E5%8E%9A%E5%BE%B7-How%20good%20is%20my%20GAN.pptx)
 * 2019-05-31，赵贵啸，[Speaker Recognition](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E8%B5%B5%E8%B4%B5%E5%95%B8-Speaker%20Recognition.ppt)
 * 2019-05-31，潘宜辰，[Principal Component Analysis on Graph](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%BD%98%E5%AE%9C%E8%BE%B0-Principal%20Component%20Analysis%20on%20Graph-Hessian.pptx)
