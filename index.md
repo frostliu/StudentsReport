@@ -12,19 +12,19 @@
 * [Conference: International Symposium on Artificial Intelligence and Robotics (ISAIR 2019)](https://isair.site/)
   * Special session paper submission deadline: April 1, 2019.
   * Regular paper submissions deadline: June 25, 2019.
-* [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
-  * Paper submission deadline: June 15, 2019.
-* [Conference: International Conference on Multimedia Big Data (BigMM 2019)](http://bigmm2019.org/?tdsourcetag=s_pcqq_aiomsg)
-  * Regular Paper submission deadline: June 15, 2019.
-  * Workshop on Machine Learning for Image analysis and Understanding (Paper submission deadline: July 5, 2019.)
-  * Workshop on Cross Modal Person Reidentification (Paper submission deadline: July 10, 2019.)
   
 ### Journals
 * [Journal: Journal of Applied Remote Sensing: Special Issue on Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1#navBarAnchor)
   * Paper submission deadline: October 31, 2019.
   * IF = 0.976
   
-### Deadline Conferences  
+### Deadline Conferences 
+* [Conference: International Conference on Multimedia Big Data (BigMM 2019)](http://bigmm2019.org/?tdsourcetag=s_pcqq_aiomsg)
+  * Regular Paper submission deadline: June 15, 2019.
+  * Workshop on Machine Learning for Image analysis and Understanding (Paper submission deadline: July 5, 2019.)
+  * Workshop on Cross Modal Person Reidentification (Paper submission deadline: July 10, 2019.)
+* [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
+  * Paper submission deadline: June 15, 2019.
 * [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
   * Full paper and special session submission deadline: May 20, 2019. 
 * [Conference: 中国多媒体大会（ChinaMM2019）](http://mm.ccf.org.cn/chinamm/2019/index.php?s=/home/article/detail/id/1.html)
