@@ -9,6 +9,8 @@
   * Regular Paper submission deadline (Full paper PDF): July 19, 2019.
 * [Conference: IEEE Symposium on Explainable Data Analytics in Computational Intelligence (EDACI)](http://ssci2019.org/edaci.html)
   * Paper submission deadline: July 10, 2019.
+* [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
+  * Paper submission deadline: July 10, 2019.
 * [Conference: International Symposium on Artificial Intelligence and Robotics (ISAIR 2019)](https://isair.site/)
   * Special session paper submission deadline: April 1, 2019.
   * Regular paper submissions deadline: June 25, 2019.
@@ -23,8 +25,6 @@
   * Regular Paper submission deadline: June 15, 2019.
   * Workshop on Machine Learning for Image analysis and Understanding (Paper submission deadline: July 5, 2019.)
   * Workshop on Cross Modal Person Reidentification (Paper submission deadline: July 10, 2019.)
-* [Conference: International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)](http://iscide.njust.edu.cn/)
-  * Paper submission deadline: June 15, 2019.
 * [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
   * Full paper and special session submission deadline: May 20, 2019. 
 * [Conference: 中国多媒体大会（ChinaMM2019）](http://mm.ccf.org.cn/chinamm/2019/index.php?s=/home/article/detail/id/1.html)
