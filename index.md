@@ -2,7 +2,6 @@
 |[Call for papers](#call-for-papers)|[Resources](#resources)|[每周进展报告](#每周进展报告)|
 
 ---
-
 ## Call for papers
 ### Conferences
 * [Conference: ACM International Conference on Multimedia in Asia (ACM Multimedia Asia 2019)](http://www.acmmmasia.org/)
