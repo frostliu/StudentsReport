@@ -20,36 +20,6 @@
   * Paper submission deadline: October 31, 2019.
   * IF = 0.976
   
-### Deadline Conferences 
-* [Conference: International Conference on Multimedia Big Data (BigMM 2019)](http://bigmm2019.org/?tdsourcetag=s_pcqq_aiomsg)
-  * Regular Paper submission deadline: June 15, 2019.
-  * Workshop on Machine Learning for Image analysis and Understanding (Paper submission deadline: July 5, 2019.)
-  * Workshop on Cross Modal Person Reidentification (Paper submission deadline: July 10, 2019.)
-* [Conference:  International Conference on Image and Graphics (ICIG 2019)](http://icig2019.csig.org.cn/)
-  * Full paper and special session submission deadline: May 20, 2019. 
-* [Conference: 中国多媒体大会（ChinaMM2019）](http://mm.ccf.org.cn/chinamm/2019/index.php?s=/home/article/detail/id/1.html)
-  * Paper submissions deadline: May 15, 2019.
-* [Conference: Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)](http://www.prcv2019.com/#/)
-  * Paper submission deadline: April 30, 2019. 
-* [Conference: International Conference on Systems, Man, and Cybernetics (IEEE SMC 2019)](https://frostliu.github.io/smc2019)
-  * Regular and special session paper submission deadline: April 28, 2019.
-  * CCF C类
-* [Conference: International Conference on Affective Computing and Intelligent Interaction (ACII 2019)](http://acii-conf.org/2019/)
-  * Main conference paper submission deadline: April 23, 2019.
-* [Conference: CCF International Conference on Artificial Intelligence (CCF-ICAI 2019)](http://ccficai2019.cumt.edu.cn/?tdsourcetag=s_pcqq_aiomsg)
-  * Paper submission deadline: April 15, 2019. 
-* [Conference: CCF Conference on Artificial Intelligence (CCFAI 2019)](http://ccfai2019.cumt.edu.cn/?tdsourcetag=s_pcqq_aiomsg)
-  * Paper submission deadline: April 15, 2019. 
-* [Conference: International Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision (CEFRL 2019)](http://www.ee.oulu.fi/~lili/CEFRLatCVPR2019.html?tdsourcetag=s_pcqq_aiomsg)
-  * Paper submission deadline: March 24, 2019.  
-* [Conference: 视觉与学习青年学者研讨会 (VALSE 2019)](http://valse2019.org/#/)
-  * Registration deadline: March 13, 2019.
-  
-### Deadline Journals
-* [Journal: International Journal of Computer Vision: Special Issue on Efficient Visual Recognition](http://www.ee.oulu.fi/~lili/IJCVSIEVR2018.htm?tdsourcetag=s_pcqq_aiomsg)
-  * Paper submission deadline: March 08, 2019.
-  * IF = 11.541 (CCF A类)  
-  
 [Top](#call-for-papers)
 
 ---
