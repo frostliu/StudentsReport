@@ -38,7 +38,7 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-06-20，王飞，[]()
+* 2019-06-20，王飞，[基于卷积神经网络的图像标注研究]()
 * 2019-06-20，傅司超，[基于图卷积神经网络的半监督分类]()
 * 2019-06-13，邵帅，[]()
 * 2019-06-13，张厚德，[How good is my GAN](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190613-%E5%BC%A0%E5%8E%9A%E5%BE%B7-How%20good%20is%20my%20GAN.pptx)
