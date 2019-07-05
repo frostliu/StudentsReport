@@ -17,7 +17,7 @@
 ### Journals
 * [Journal: Journal of Applied Remote Sensing: Special Issue on Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1#navBarAnchor)
   * Paper submission deadline: October 31, 2019.
-  * IF = 0.976
+  * IF = 1.344
   
 [Top](#call-for-papers)
 
