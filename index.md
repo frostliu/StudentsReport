@@ -37,10 +37,10 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-07-04，邵倩倩，[in-class]()
+* 2019-07-04，邵倩倩，[in-class](StudentsReport/20190717-邵倩倩-in-class.pptx at master · frostliu/StudentsReport  https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190717-%E9%82%B5%E5%80%A9%E5%80%A9-in-class.pptx)
 * 2019-06-20，王飞，[基于卷积神经网络的图像标注研究](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190620-%E7%8E%8B%E9%A3%9E-%E5%9F%BA%E4%BA%8E%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9B%BE%E5%83%8F%E6%A0%87%E6%B3%A8%E7%A0%94%E7%A9%B6.pptx)
-* 2019-06-20，傅司超，[基于图卷积神经网络的半监督分类]()
-* 2019-06-13，邵帅，[Hybrid dictionary learning network]()
+* 2019-06-20，傅司超，[基于图卷积神经网络的半监督分类](StudentsReport/20190321-邵帅-Graph Embedded Dictionary Learning.pptx at master · frostliu/StudentsReport  https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190321-%E9%82%B5%E5%B8%85-Graph%20Embedded%20Dictionary%20Learning.pptx)
+* 2019-06-13，邵帅，[Hybrid dictionary learning network](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190613-%E9%82%B5%E5%B8%85Hybrid%20dictionary%20learning%20network.pptx)
 * 2019-06-13，张厚德，[How good is my GAN](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190613-%E5%BC%A0%E5%8E%9A%E5%BE%B7-How%20good%20is%20my%20GAN.pptx)
 * 2019-05-31，赵贵啸，[Speaker Recognition](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E8%B5%B5%E8%B4%B5%E5%95%B8-Speaker%20Recognition.ppt)
 * 2019-05-31，潘宜辰，[Principal Component Analysis on Graph](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E6%BD%98%E5%AE%9C%E8%BE%B0-Principal%20Component%20Analysis%20on%20Graph-Hessian.pptx)
