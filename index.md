@@ -37,7 +37,7 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-07-04，邵倩倩，[in-class](StudentsReport/20190717-邵倩倩-in-class.pptx at master · frostliu/StudentsReport  https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190717-%E9%82%B5%E5%80%A9%E5%80%A9-in-class.pptx)
+* 2019-07-04，邵倩倩，[in-class](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190717-%E9%82%B5%E5%80%A9%E5%80%A9-in-class.pptx)
 * 2019-06-20，王飞，[基于卷积神经网络的图像标注研究](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190620-%E7%8E%8B%E9%A3%9E-%E5%9F%BA%E4%BA%8E%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9B%BE%E5%83%8F%E6%A0%87%E6%B3%A8%E7%A0%94%E7%A9%B6.pptx)
 * 2019-06-20，傅司超，[基于图卷积神经网络的半监督分类](StudentsReport/20190321-邵帅-Graph Embedded Dictionary Learning.pptx at master · frostliu/StudentsReport  https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190321-%E9%82%B5%E5%B8%85-Graph%20Embedded%20Dictionary%20Learning.pptx)
 * 2019-06-13，邵帅，[Hybrid dictionary learning network](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190613-%E9%82%B5%E5%B8%85Hybrid%20dictionary%20learning%20network.pptx)
