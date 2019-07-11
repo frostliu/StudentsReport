@@ -6,11 +6,11 @@
 ### Conferences
 * [Conference: IEEE Symposium on Explainable Data Analytics in Computational Intelligence (EDACI)](http://ssci2019.org/edaci.html)
   * Paper submission deadline: August 1, 2019.
+* [Conference: International Conference on Multimedia Modeling (MMM 2020)](http://www.mmm2020.kr/welcome.html)
+  * Regular/Special Session Paper submission deadline: July 31, 2019.
 * [Conference: ACM International Conference on Multimedia in Asia (ACM Multimedia Asia 2019)](http://www.acmmmasia.org/)
   * Regular Paper submission deadline (Abstract)): July 12, 2019.
   * Regular Paper submission deadline (Full paper PDF): July 19, 2019.
-* [Conference: International Conference on Multimedia Modeling (MMM 2020)](http://www.mmm2020.kr/welcome.html)
-  * Regular/Special Session Paper submission deadline: July 12, 2019.
   
 ### Journals
 * [Journal: Journal of Applied Remote Sensing: Special Issue on Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1#navBarAnchor)
