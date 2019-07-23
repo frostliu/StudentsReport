@@ -37,7 +37,7 @@
 * 2019-07-11，许睿，[Meta Learning]()
 * 2019-07-04，邵倩倩，[in-class](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190717-%E9%82%B5%E5%80%A9%E5%80%A9-in-class.pptx)
 * 2019-06-20，王飞，[基于卷积神经网络的图像标注研究](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190620-%E7%8E%8B%E9%A3%9E-%E5%9F%BA%E4%BA%8E%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9B%BE%E5%83%8F%E6%A0%87%E6%B3%A8%E7%A0%94%E7%A9%B6.pptx)
-* 2019-06-20，傅司超，[基于图卷积神经网络的半监督分类]()
+* 2019-06-20，傅司超，基于图卷积神经网络的半监督分类
 * 2019-06-13，邵帅，[Hybrid dictionary learning network](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190613-%E9%82%B5%E5%B8%85Hybrid%20dictionary%20learning%20network.pptx)
 * 2019-06-13，张厚德，[How good is my GAN](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190613-%E5%BC%A0%E5%8E%9A%E5%BE%B7-How%20good%20is%20my%20GAN.pptx)
 * 2019-05-31，赵贵啸，[Speaker Recognition](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190601-%E8%B5%B5%E8%B4%B5%E5%95%B8-Speaker%20Recognition.ppt)
@@ -52,7 +52,7 @@
 * 2019-04-25，邵倩倩，[Graph Laplacian Regularized for Image Annotation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190425-%E9%82%B5%E5%80%A9%E5%80%A9-Graph%20Laplacian%20Regularized%20for%20Image%20Annotation.pptx)
 * 2019-04-11，昝畅通，[基于深度神经网络的谱聚类算法研究](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190411-%E6%98%9D%E7%95%85%E9%80%9A-%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E8%B0%B1%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pptx)
 * 2019-04-11，彭旭阳，[基于生成对抗网络的反演方法](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190411-%E5%BD%AD%E6%97%AD%E9%98%B3-%E5%9F%BA%E4%BA%8E%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%E7%9A%84%E5%8F%8D%E6%BC%94%E6%96%B9%E6%B3%95.pptx)
-* 2019-04-04，李天宝，[]()
+* 2019-04-04，李天宝，
 * 2019-03-28，潘宜辰，[如何写论文](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190328-%E6%BD%98%E5%AE%9C%E6%99%A8%E8%BE%B0-%E5%A6%82%E4%BD%95%E5%86%99%E8%AE%BA%E6%96%87.pptx)
 * 2019-03-21，邵帅，  [Graph Embedded Dictionary Learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190321-%E9%82%B5%E5%B8%85-Graph%20Embedded%20Dictionary%20Learning.pptx)
 * 2019-03-14，李金凤，[manifold transfer](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190314-%E6%9D%8E%E9%87%91%E5%87%A4-manifold%20transfer.pptx)
