@@ -32,9 +32,11 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-07-18，李金凤，[]()
-* 2019-07-18，李皎月，[]()
-* 2019-07-11，许睿，[Meta Learning]()
+* 2019-07-25, 傅司超，
+* 2019-07-25, 王飞，
+* 2019-07-18，李金凤，[Domain adaptation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190718-%E6%9D%8E%E9%87%91%E5%87%A4-Domain%20adaptation.pptx)
+* 2019-07-18，李皎月，Edge Loss for Image Super-resolution
+* 2019-07-11，许睿，[Meta Learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190711-%E8%AE%B8%E7%9D%BF-Meta-learning.pptx)
 * 2019-07-04，邵倩倩，[in-class](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190717-%E9%82%B5%E5%80%A9%E5%80%A9-in-class.pptx)
 * 2019-06-20，王飞，[基于卷积神经网络的图像标注研究](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190620-%E7%8E%8B%E9%A3%9E-%E5%9F%BA%E4%BA%8E%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9B%BE%E5%83%8F%E6%A0%87%E6%B3%A8%E7%A0%94%E7%A9%B6.pptx)
 * 2019-06-20，傅司超，基于图卷积神经网络的半监督分类
