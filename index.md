@@ -32,6 +32,7 @@
 
 ## 每周进展报告
 ### 2019年
+* 2019-08-01，傅司超
 * 2019-07-25，王飞，[The Workshop on Deep Learning and Computer Vision]()
 * 2019-07-18，李金凤，[Domain adaptation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190718-%E6%9D%8E%E9%87%91%E5%87%A4-Domain%20adaptation.pptx)
 * 2019-07-18，李皎月，Edge Loss for Image Super-resolution
