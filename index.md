@@ -33,7 +33,7 @@
 ## 每周进展报告
 ### 2019年
 * 2019-08-01，傅司超
-* 2019-07-25，王飞，[The Workshop on Deep Learning and Computer Vision]()
+* 2019-07-25，王飞，[The Workshop on Deep Learning and Computer Vision](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190726_%E7%8E%8B%E9%A3%9E_A%20summary%20of%20The%20Workshop%20on%20Deep%20Learning%20and%20Computer%20Vision.pptx)
 * 2019-07-18，李金凤，[Domain adaptation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190718-%E6%9D%8E%E9%87%91%E5%87%A4-Domain%20adaptation.pptx)
 * 2019-07-18，李皎月，Edge Loss for Image Super-resolution
 * 2019-07-11，许睿，[Meta Learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190711-%E8%AE%B8%E7%9D%BF-Meta-learning.pptx)
