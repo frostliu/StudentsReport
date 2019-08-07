@@ -28,6 +28,8 @@
 
 ## 每周进展报告
 ### 2019年
+* 2019-08-07，许睿，
+* 2019-08-07，李乔楠，
 * 2019-07-31，赵贵啸，[Speaker Identification](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190731-%E8%B5%B5%E8%B4%B5%E5%95%B8-Speaker%20Identification.pptx)
 * 2019-07-31，傅司超
 * 2019-07-25，王飞，[The Workshop on Deep Learning and Computer Vision](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190726_%E7%8E%8B%E9%A3%9E_A%20summary%20of%20The%20Workshop%20on%20Deep%20Learning%20and%20Computer%20Vision.pptx)
