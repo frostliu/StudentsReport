@@ -29,6 +29,7 @@
 
 ## 每周进展报告
 ### 2019年
+* 2019-08-15，潘宜辰，
 * 2019-08-08，许睿，
 * 2019-08-08，李乔楠，
 * 2019-07-31，赵贵啸，[Speaker Identification](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190731-%E8%B5%B5%E8%B4%B5%E5%95%B8-Speaker%20Identification.pptx)
