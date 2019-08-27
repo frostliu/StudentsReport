@@ -29,7 +29,7 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-08-24，李乔楠，
+* 2019-08-30，李乔楠，
 * 2019-08-24，李金凤，[TSC](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190824_%E6%9D%8E%E9%87%91%E5%87%A4_TSC.pptx)
 * 2019-08-15，潘宜辰，[Latent Low-Rank Representation via Graph Spectral Filter](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190816-%E6%BD%98%E5%AE%9C%E8%BE%B0-Latent%20Low-Rank%20Representation%20via%20Graph%20Spectral%20Filter.pptx)
 * 2019-08-08，许睿，[meta-learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190808-%E8%AE%B8%E7%9D%BF-meta-learning.pdf)
