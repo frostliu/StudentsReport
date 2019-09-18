@@ -30,6 +30,7 @@
 
 ## 每周进展报告
 ### 2019年
+* 2019-09-19，潘宜辰
 * 2019-09-05，傅司超
 * 2019-08-30，李乔楠，[颗粒检测方法](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190830-%E6%9D%8E%E4%B9%94%E6%A5%A0-%E9%A2%97%E7%B2%92%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pptx)
 * 2019-08-24，李金凤，[TSC](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190824_%E6%9D%8E%E9%87%91%E5%87%A4_TSC.pptx)
