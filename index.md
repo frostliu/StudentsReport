@@ -31,6 +31,7 @@
 ## 每周进展报告
 ### 2019年
 * 2019-10-08，李金凤，
+* 2019-10-08，陈大磊，[]()
 * 2019-09-24，赵贵啸，[Speaker Identification system](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190924-%E8%B5%B5%E8%B4%B5%E5%95%B8-Speaker%20Identification%20system.pptx)
 * 2019-09-19，潘宜辰，[Latent Low-Rank Representation via Graph Spectral Filter for Subspace Segmentation and Representation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20190919-%E6%BD%98%E5%AE%9C%E8%BE%B0-Latent%20Low-Rank%20Representation%20via%20Graph%20Spectral%20Filter%20for%20Subspace%20Segmentation%20and%20Representation.pptx)
 * 2019-09-05，傅司超
