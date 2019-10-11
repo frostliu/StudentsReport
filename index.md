@@ -4,6 +4,8 @@
 ---
 ## Call for papers
 ### Conferences
+* [Conference: International Conference on Multimedia & Expo (ICME 2020)](http://www.2020.ieeeicme.org/)
+  * Paper submission deadline: November 29, 2019.
   
 ### Journals
 * [Journal: Journal of Applied Remote Sensing: Special Issue on Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1#navBarAnchor)
