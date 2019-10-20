@@ -33,7 +33,8 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-10-15，邵倩倩，
+* 2019-10-22
+* 2019-10-15，邵倩倩
 * 2019-10-15，许睿，
 * 2019-10-08，李金凤，[Transfer Learning--Domain Adaptation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191008-%E6%9D%8E%E9%87%91%E5%87%A4-Transfer%20Learning.pptx)
 * 2019-10-08，陈大磊，[Meta-learning with Differentiable Convex Optimization](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191008-%E9%99%88%E5%A4%A7%E7%A3%8A-meta-learning%20with%20differentiable%20convex%20optimization.pptx)
