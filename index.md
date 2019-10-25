@@ -33,7 +33,7 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-10-22，潘宜辰，
+* 2019-10-22，潘宜辰，[New filter order and coefficient solution and LatLRRNet]()
 * 2019-10-22，李皎月，
 * 2019-10-15，邵倩倩
 * 2019-10-15，许睿，[Few-shot learning with graph neural networks](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191015-%E8%AE%B8%E7%9D%BF-Few-shot%20learning%20with%20graph%20neural%20networks(new).pptx)
