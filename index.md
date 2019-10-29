@@ -33,8 +33,8 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-11-05，
-* 2019-11-05，
+* 2019-11-05，逯孝珑，
+* 2019-11-05，李金凤，
 * 2019-10-29，朱敏，
 * 2019-10-29，赵贵啸，
 * 2019-10-22，潘宜辰，[New filter order and coefficient solution and LatLRRNet](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191022-%E6%BD%98%E5%AE%9C%E8%BE%B0-New%20filter%20order%20and%20coefficient%20solution%20and%20LatLRRNet.pptx)
