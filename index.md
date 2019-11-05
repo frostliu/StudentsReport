@@ -34,9 +34,9 @@
 ## 每周进展报告
 ### 2019年
 * 2019-11-05，逯孝珑，[]()
-* 2019-11-05，彭旭阳，[Introduce Graph to GANs]()
+* 2019-11-05，彭旭阳，[Introduce Graph to GANs](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191105-%E5%BD%AD%E6%97%AD%E9%98%B3-Introduce%20Graph%20to%20GANs.pptx)
 * 2019-10-29，朱敏，[]()
-* 2019-10-29，赵贵啸，[Deep speaker identification]()
+* 2019-10-29，赵贵啸，[Deep speaker identification](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191029-%E8%B5%B5%E8%B4%B5%E5%95%B8-Deep%20speaker%20identification.pptx)
 * 2019-10-22，潘宜辰，[New filter order and coefficient solution and LatLRRNet](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191022-%E6%BD%98%E5%AE%9C%E8%BE%B0-New%20filter%20order%20and%20coefficient%20solution%20and%20LatLRRNet.pptx)
 * 2019-10-22，李皎月，[Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191022-%E6%9D%8E%E7%9A%8E%E6%9C%88-Image%20Super-Resolution%20Using%20Very%20Deep%20Residual%20Channel%20Attention%20Networks.pptx)
 * 2019-10-15，邵倩倩
