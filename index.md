@@ -33,7 +33,7 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-11-05，逯孝珑，[]()
+* 2019-11-05，逯孝珑，[PointNet：Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191105-%E9%80%AF%E5%AD%9D%E7%8F%91-PointNet%EF%BC%9ADeep%20Learning%20on%20Point%20Sets%20for%203D%20Classification%20and%20Segmentation%20.pptx)
 * 2019-11-05，彭旭阳，[Introduce Graph to GANs](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191105-%E5%BD%AD%E6%97%AD%E9%98%B3-Introduce%20Graph%20to%20GANs.pptx)
 * 2019-10-29，朱敏，[]()
 * 2019-10-29，赵贵啸，[Deep speaker identification](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191029-%E8%B5%B5%E8%B4%B5%E5%95%B8-Deep%20speaker%20identification.pptx)
