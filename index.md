@@ -35,7 +35,7 @@
 ### 2019年
 * 2019-11-05，逯孝珑，[PointNet：Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191105-%E9%80%AF%E5%AD%9D%E7%8F%91-PointNet%EF%BC%9ADeep%20Learning%20on%20Point%20Sets%20for%203D%20Classification%20and%20Segmentation%20.pptx)
 * 2019-11-05，彭旭阳，[Introduce Graph to GANs](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191105-%E5%BD%AD%E6%97%AD%E9%98%B3-Introduce%20Graph%20to%20GANs.pptx)
-* 2019-10-29，朱敏，[]()
+* 2019-10-29，朱敏，[Deep Meta Metric Learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191029-%E6%9C%B1%E6%95%8F-Deep%20Meta%20Metric%20Learning.pptx.pptx)
 * 2019-10-29，赵贵啸，[Deep speaker identification](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191029-%E8%B5%B5%E8%B4%B5%E5%95%B8-Deep%20speaker%20identification.pptx)
 * 2019-10-22，潘宜辰，[New filter order and coefficient solution and LatLRRNet](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191022-%E6%BD%98%E5%AE%9C%E8%BE%B0-New%20filter%20order%20and%20coefficient%20solution%20and%20LatLRRNet.pptx)
 * 2019-10-22，李皎月，[Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191022-%E6%9D%8E%E7%9A%8E%E6%9C%88-Image%20Super-Resolution%20Using%20Very%20Deep%20Residual%20Channel%20Attention%20Networks.pptx)
