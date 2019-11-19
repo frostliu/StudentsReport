@@ -31,6 +31,8 @@
 
 ## 每周进展报告
 ### 2019年
+* 2019-11-19，李金凤，[]()
+* 2019-11-19，陈大磊，[MAML&LEO]()
 * 2019-11-12，昝畅通，[DeepCluster on Attributed Graph](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191112-%E6%98%9D%E7%95%85%E9%80%9A-DeepCluster%20on%20Attributed%20Graph.pptx)
 * 2019-11-12，管颢筌，[Faster RCNN](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191112-%E7%AE%A1%E9%A2%A2%E7%AD%8C-Faster%20RCNN.ppt)
 * 2019-11-05，逯孝珑，[PointNet：Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191105-%E9%80%AF%E5%AD%9D%E7%8F%91-PointNet%EF%BC%9ADeep%20Learning%20on%20Point%20Sets%20for%203D%20Classification%20and%20Segmentation%20.pptx)
