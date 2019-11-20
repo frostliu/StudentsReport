@@ -31,7 +31,7 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-11-19，李金凤，[]()
+* 2019-11-19，李金凤，[基于几何结构迁移的领域自适应方法研究]()
 * 2019-11-19，陈大磊，[MAML&LEO](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191119-%E9%99%88%E5%A4%A7%E7%A3%8A-MAML%20%EF%BC%86%20LEO.pptx)
 * 2019-11-12，昝畅通，[DeepCluster on Attributed Graph](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191112-%E6%98%9D%E7%95%85%E9%80%9A-DeepCluster%20on%20Attributed%20Graph.pptx)
 * 2019-11-12，管颢筌，[Faster RCNN](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191112-%E7%AE%A1%E9%A2%A2%E7%AD%8C-Faster%20RCNN.ppt)
