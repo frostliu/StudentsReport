@@ -6,7 +6,7 @@
 ### Conferences
 * [2020 AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,SP,GR,DM)
 * [Conference: International Conference on Multimedia & Expo (ICME 2020)](http://www.2020.ieeeicme.org/)
-  * Paper submission deadline: November 29, 2019.
+  * Paper submission deadline: December 13, 2019.
   * CCF B类
   
 ### Journals
