@@ -8,13 +8,13 @@
 * [Conference: International Conference on Multimedia & Expo (ICME 2020)](http://www.2020.ieeeicme.org/)
   * Paper submission deadline: December 13, 2019.
   * CCF B类
-* [Conference: International Conference on Pattern Recognition (ICPR 2020)](https://www.micc.unifi.it/icpr2020/index.php/organizing-team/)
-  * Paper submission deadline: March 2, 2020.
-  * CCF C类
 * [Conference: ACM International Conference on Multimedia Retrieval (ICMR 2020)](http://www.icmr2020.org/index.html)
   * Knowledge-Driven Analysis and Retrieval on Multimedia
   * Paper submission deadline: Jan 11, 2020.
   * CCF B类
+* [Conference: International Conference on Pattern Recognition (ICPR 2020)](https://www.micc.unifi.it/icpr2020/index.php/organizing-team/)
+  * Paper submission deadline: March 2, 2020.
+  * CCF C类
   
 ### Journals
   
