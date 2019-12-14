@@ -39,7 +39,7 @@
 ## 每周进展报告
 ### 2019年
 * 2019-12-10，李皎月
-* 2019-12-10，刘瑶，[]()
+* 2019-12-10，刘瑶，[用深度学习推断全波反演&基于稀疏表示的图像超分辨率]()
 * 2019-12-03，吕云雪，[最大化互信息的对抗生成网络的可解释性学习](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191121-%E5%90%95%E4%BA%91%E9%9B%AA-%E6%9C%80%E5%A4%A7%E5%8C%96%E4%BA%92%E4%BF%A1%E6%81%AF%E7%9A%84%E5%AF%B9%E6%8A%97%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C%E7%9A%84%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7%E5%AD%A6%E4%B9%A0.pptx)
 * 2019-12-03，邵倩倩
 * 2019-11-26，王飞，[Reinforcement Learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191126-%E7%8E%8B%E9%A3%9E-Reinforcement%20Learning.pptx)
