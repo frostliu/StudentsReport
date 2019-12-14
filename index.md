@@ -5,9 +5,6 @@
 ## Call for papers
 ### Conferences
 * [2020 AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,SP,GR,DM)
-* [Conference: International Conference on Multimedia & Expo (ICME 2020)](http://www.2020.ieeeicme.org/)
-  * Paper submission deadline: December 13, 2019.
-  * CCF B类
 * [Conference: ACM International Conference on Multimedia Retrieval (ICMR 2020)](http://www.icmr2020.org/index.html)
   * Knowledge-Driven Analysis and Retrieval on Multimedia
   * Paper submission deadline: Jan 11, 2020.
@@ -39,7 +36,7 @@
 ## 每周进展报告
 ### 2019年
 * 2019-12-10，李皎月
-* 2019-12-10，刘瑶，[用深度学习推断全波反演&基于稀疏表示的图像超分辨率]()
+* 2019-12-10，刘瑶，[用深度学习推断全波反演&基于稀疏表示的图像超分辨率](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191210-%E5%88%98%E7%91%B6-%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%8E%A8%E6%96%AD%E5%85%A8%E6%B3%A2%E5%8F%8D%E6%BC%94%26%E5%9F%BA%E4%BA%8E%E7%A8%80%E7%96%8F%E8%A1%A8%E7%A4%BA%E7%9A%84%E5%9B%BE%E5%83%8F%E8%B6%85%E5%88%86%E8%BE%A8%E7%8E%87.pptx)
 * 2019-12-03，吕云雪，[最大化互信息的对抗生成网络的可解释性学习](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191121-%E5%90%95%E4%BA%91%E9%9B%AA-%E6%9C%80%E5%A4%A7%E5%8C%96%E4%BA%92%E4%BF%A1%E6%81%AF%E7%9A%84%E5%AF%B9%E6%8A%97%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C%E7%9A%84%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7%E5%AD%A6%E4%B9%A0.pptx)
 * 2019-12-03，邵倩倩
 * 2019-11-26，王飞，[Reinforcement Learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191126-%E7%8E%8B%E9%A3%9E-Reinforcement%20Learning.pptx)
