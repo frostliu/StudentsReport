@@ -35,7 +35,7 @@
 
 ## 每周进展报告
 ### 2019年
-* 2019-12-17，
+* 2019-12-17，王镇方
 * 2019-12-17，许睿
 * 2019-12-10，李皎月
 * 2019-12-10，刘瑶，[用深度学习推断全波反演&基于稀疏表示的图像超分辨率](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191210-%E5%88%98%E7%91%B6-%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%8E%A8%E6%96%AD%E5%85%A8%E6%B3%A2%E5%8F%8D%E6%BC%94%26%E5%9F%BA%E4%BA%8E%E7%A8%80%E7%96%8F%E8%A1%A8%E7%A4%BA%E7%9A%84%E5%9B%BE%E5%83%8F%E8%B6%85%E5%88%86%E8%BE%A8%E7%8E%87.pptx)
