@@ -35,6 +35,7 @@
 
 ## 每周进展报告
 ### 2019年
+* 2019-12-31，潘宜辰
 * 2019-12-17，许睿，[meta-learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191217-%E8%AE%B8%E7%9D%BF-meta-learning.pptx)
 * 2019-12-17，王镇方，[Depth-Aware Video Frame Interpolation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191217-%E7%8E%8B%E9%95%87%E6%96%B9-Depth-Aware%20Video%20Frame%20Interpolation.pptx)
 * 2019-12-10，李皎月
