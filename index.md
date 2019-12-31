@@ -29,6 +29,10 @@
 * [公开数据集收集汇总](https://github.com/awesomedata/awesome-public-datasets)
 * [弱监督学习](https://zhuanlan.zhihu.com/p/34270286?utm_source=wechat_timeline&utm_medium=social&utm_oi=32108798017536&from=timeline&isappinstalled=0)
 
+### Conferences
+
+### Journals
+
 [Top](#resources)
 
 ---
