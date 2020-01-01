@@ -31,26 +31,29 @@
 
 ### Conferences
 * CCF A类
-  * [ACM Transactions on Database Systems(TODS)](http://dblp.uni-trier.de/db/journals/tods/)
-  * [ACM Transactions on Information Systems(TOIS)](http://dblp.uni-trier.de/db/journals/tois/)
-  * [IEEE Transactions on Knowledge and Data Engineering(TKDE)](http://dblp.uni-trier.de/db/journals/tkde/)
-  * [The VLDB Journal(VLDBJ)](http://dblp.uni-trier.de/db/journals/vldb/)
-  * [ACM Transactions on Graphics(TOG)](http://dblp.uni-trier.de/db/journals/tog/)
-  * [IEEE Transactions on Image Processing(TIP)](http://dblp.uni-trier.de/db/journals/tip/)
-  * [IEEE Transactions on Visualization and Computer Graphics(TVCG)](http://dblp.uni-trier.de/db/journals/tvcg/)
-  * [Artificial Intelligence(AI)](http://dblp.uni-trier.de/db/journals/ai/)
-  * [IEEE Trans on Pattern Analysis and Machine
-Intelligence(TPAMI)](http://dblp.uni-trier.de/db/journals/pami/)
-  * [International Journal of Computer Vision(IJCV)](http://dblp.uni-trier.de/db/journals/ijcv/)
-  * [Journal of Machine Learning Research(JMLR)](http://dblp.uni-trier.de/db/journals/jmlr/)
-  * [Journal of the ACM(JACM)](http://dblp.uni-trier.de/db/journals/jacm/)
-  * [Proceedings of the IEEE(Proc. IEEE)](http://dblp.uni-trier.de/db/journals/pieee/)
+  * [ACM Transactions on Database Systems (TODS)](http://dblp.uni-trier.de/db/journals/tods/)
+  * [ACM Transactions on Information Systems (TOIS)](http://dblp.uni-trier.de/db/journals/tois/)
+  * [IEEE Transactions on Knowledge and Data Engineering (TKDE)](http://dblp.uni-trier.de/db/journals/tkde/)
+  * [The VLDB Journal (VLDBJ)](http://dblp.uni-trier.de/db/journals/vldb/)
+  * [ACM Transactions on Graphics (TOG)](http://dblp.uni-trier.de/db/journals/tog/)
+  * [IEEE Transactions on Image Processing (TIP)](http://dblp.uni-trier.de/db/journals/tip/)
+  * [IEEE Transactions on Visualization and Computer Graphics (TVCG)](http://dblp.uni-trier.de/db/journals/tvcg/)
+  * [Artificial Intelligence (AI)](http://dblp.uni-trier.de/db/journals/ai/)
+  * [IEEE Trans on Pattern Analysis and Machine Intelligence (TPAMI)](http://dblp.uni-trier.de/db/journals/pami/)
+  * [International Journal of Computer Vision (IJCV)](http://dblp.uni-trier.de/db/journals/ijcv/)
+  * [Journal of Machine Learning Research (JMLR)](http://dblp.uni-trier.de/db/journals/jmlr/)
+  * [Journal of the ACM (JACM)](http://dblp.uni-trier.de/db/journals/jacm/)
+  * [Proceedings of the IEEE (Proc. IEEE)](http://dblp.uni-trier.de/db/journals/pieee/)
 * CCF B类
-  * 
   
-
-
+* CCF C类
+  
 ### Journals
+* CCF A类
+
+* CCF B类
+
+* CCF c类
 
 [Top](#resources)
 
