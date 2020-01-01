@@ -30,7 +30,9 @@
 * [弱监督学习](https://zhuanlan.zhihu.com/p/34270286?utm_source=wechat_timeline&utm_medium=social&utm_oi=32108798017536&from=timeline&isappinstalled=0)
 
 ### Conferences
-* [ACM Transactions on Database Systems](http://dblp.uni-trier.de/db/journals/tods/)
+* CCF A类
+  * [ACM Transactions on Database Systems(TODS)](http://dblp.uni-trier.de/db/journals/tods/)
+
 
 ### Journals
 
