@@ -29,7 +29,7 @@
 * [公开数据集收集汇总](https://github.com/awesomedata/awesome-public-datasets)
 * [弱监督学习](https://zhuanlan.zhihu.com/p/34270286?utm_source=wechat_timeline&utm_medium=social&utm_oi=32108798017536&from=timeline&isappinstalled=0)
  
-### Conferences
+### 中国计算机学会推荐国际学术会议和期刊目录
 * CCF A类
   * [ACM Conference on Management of Data (SIGMOD)](http://dblp.uni-trier.de/db/conf/sigmod/)
   * [ACM Knowledge Discovery and Data Mining (SIGKDD)](http://dblp.uni-trier.de/db/conf/kdd/)
