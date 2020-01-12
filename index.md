@@ -5,10 +5,6 @@
 ## Call for papers
 ### Conferences
 * [2020 AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,SP,GR,DM)
-* [Conference: ACM International Conference on Multimedia Retrieval (ICMR 2020)](http://www.icmr2020.org/index.html)
-  * Knowledge-Driven Analysis and Retrieval on Multimedia
-  * Paper submission deadline: Jan 11, 2020.
-  * CCF B类
 * [Conference: International Conference on Pattern Recognition (ICPR 2020)](https://www.micc.unifi.it/icpr2020/index.php/organizing-team/)
   * Paper submission deadline: March 2, 2020.
   * CCF C类
