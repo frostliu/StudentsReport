@@ -21,6 +21,7 @@
 * [最新版《中国计算机学会推荐国际学术会议和期刊目录》](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
 * [清华新版计算机学科推荐学术会议和期刊列表](https://mp.weixin.qq.com/s/KT3doLDgLX6RFsSVrmpyfw)
 * [最新版《中国计算机学会推荐中文科技期刊目录》](https://www.ccf.org.cn/c/2019-07-31/667609.shtml)
+* [中国自动化学会推荐期刊目录2018版](http://www.caa.org.cn/Public/FCKuploads/00.pdf)
 * [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks#surveypapers)
 * [公开数据集收集汇总](https://github.com/awesomedata/awesome-public-datasets)
 * [弱监督学习](https://zhuanlan.zhihu.com/p/34270286?utm_source=wechat_timeline&utm_medium=social&utm_oi=32108798017536&from=timeline&isappinstalled=0)
