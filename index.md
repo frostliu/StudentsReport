@@ -149,6 +149,7 @@
 
 ## 每周进展报告
 ###2020
+* 2020-05-07，李乔楠[ 碳纤维抽油杆显微图像-检测与分析系统的研究与开发],(https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E6%9D%8E%E4%B9%94%E6%A5%A0-%E6%AF%95%E4%B8%9A%E7%AD%94%E8%BE%A9.pptx)
 * 2020-05-07，王飞，[Table to Text](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E7%8E%8B%E9%A3%9E-%E8%A1%A8%E5%88%B0%E6%96%87%E6%9C%AC%E8%BD%AC%E6%8D%A2.pptx)
 * 2020-05-07，昝畅通，[Unsupervised meta-learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E6%98%9D%E7%95%85%E9%80%9A-%E6%97%A0%E7%9B%91%E7%9D%A3%E5%85%83%E5%AD%A6%E4%B9%A0.pptx)
 * 2020-05-07，彭旭阳，[Introduce Graph to GANs](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E5%BD%AD%E6%97%AD%E9%98%B3-%E5%9B%BE%E4%B8%8E%E5%AF%B9%E6%8A%97%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C%E4%BB%8B%E7%BB%8D.pptx)
