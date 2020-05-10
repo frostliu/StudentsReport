@@ -149,8 +149,12 @@
 
 ## 每周进展报告
 ###2020
-* 2020-05-07，刘瑶[全波形反转中的低频恢复](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E5%88%98%E7%91%B6-%E5%85%A8%E6%B3%A2%E5%BD%A2%E5%8F%8D%E8%BD%AC%E4%B8%AD%E7%9A%84%E4%BD%8E%E9%A2%91%E6%81%A2%E5%A4%8D.pptx)
-* 2020-01-07，赵贵啸，[Voiceprint recognition system](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200107-赵贵啸-Voiceprint recognition system.pptx)
+* 2020-05-07，王飞，[Table to Text](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E7%8E%8B%E9%A3%9E-%E8%A1%A8%E5%88%B0%E6%96%87%E6%9C%AC%E8%BD%AC%E6%8D%A2.pptx)
+* 2020-05-07，昝畅通，[Unsupervised meta-learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E6%98%9D%E7%95%85%E9%80%9A-%E6%97%A0%E7%9B%91%E7%9D%A3%E5%85%83%E5%AD%A6%E4%B9%A0.pptx)
+* 2020-05-07，彭旭阳，[Introduce Graph to GANs](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E5%BD%AD%E6%97%AD%E9%98%B3-%E5%9B%BE%E4%B8%8E%E5%AF%B9%E6%8A%97%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C%E4%BB%8B%E7%BB%8D.pptx)
+* 2020-05-07，吕云雪，[渗透场生成](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E5%90%95%E4%BA%91%E9%9B%AA-%E6%B8%97%E9%80%8F%E5%9C%BA%E7%94%9F%E6%88%90.pptx)
+* 2020-05-07，刘瑶，[全波形反转中的低频恢复](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E5%88%98%E7%91%B6-%E5%85%A8%E6%B3%A2%E5%BD%A2%E5%8F%8D%E8%BD%AC%E4%B8%AD%E7%9A%84%E4%BD%8E%E9%A2%91%E6%81%A2%E5%A4%8D.pptx)
+* 2020-01-07，赵贵啸，[Voiceprint recognition system](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200107-%E8%B5%B5%E8%B4%B5%E5%95%B8-Voiceprint%20recognition%20system.pptx)
 
 ### 2019年
 * 2019-12-31，潘宜辰，[Low-dimensional Preserving Projections](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191231-%E6%BD%98%E5%AE%9C%E8%BE%B0-Low-dimensional%20Preserving%20Projections.pptx)
