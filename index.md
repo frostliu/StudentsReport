@@ -148,8 +148,11 @@
 ---
 
 ## 每周进展报告
+###2020
+* 2020-05-07，刘瑶[全波形反转中的低频恢复](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E5%88%98%E7%91%B6-%E5%85%A8%E6%B3%A2%E5%BD%A2%E5%8F%8D%E8%BD%AC%E4%B8%AD%E7%9A%84%E4%BD%8E%E9%A2%91%E6%81%A2%E5%A4%8D.pptx)
+* 2020-01-07，赵贵啸，[Voiceprint recognition system](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200107-赵贵啸-Voiceprint recognition system.pptx)
+
 ### 2019年
-* 2020-01-07，赵贵啸，[Voiceprint recognition system](StudentsReport_PPT/20200107-赵贵啸-Voiceprint recognition system.pptx)
 * 2019-12-31，潘宜辰，[Low-dimensional Preserving Projections](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191231-%E6%BD%98%E5%AE%9C%E8%BE%B0-Low-dimensional%20Preserving%20Projections.pptx)
 * 2019-12-17，许睿，[meta-learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191217-%E8%AE%B8%E7%9D%BF-meta-learning.pptx)
 * 2019-12-17，王镇方，[Depth-Aware Video Frame Interpolation](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20191217-%E7%8E%8B%E9%95%87%E6%96%B9-Depth-Aware%20Video%20Frame%20Interpolation.pptx)
