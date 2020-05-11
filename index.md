@@ -148,7 +148,8 @@
 ---
 
 ## 每周进展报告
-###2020
+### 2020
+* 2020-05-07，傅司超， 基于图卷积神经网络的半监督分类算法研究
 * 2020-05-07，李乔楠，[ 碳纤维抽油杆显微图像-检测与分析系统的研究与开发](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E6%9D%8E%E4%B9%94%E6%A5%A0-%E6%AF%95%E4%B8%9A%E7%AD%94%E8%BE%A9.pptx)
 * 2020-05-07，王飞，[Table to Text](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E7%8E%8B%E9%A3%9E-%E8%A1%A8%E5%88%B0%E6%96%87%E6%9C%AC%E8%BD%AC%E6%8D%A2.pptx)
 * 2020-05-07，昝畅通，[Unsupervised meta-learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E6%98%9D%E7%95%85%E9%80%9A-%E6%97%A0%E7%9B%91%E7%9D%A3%E5%85%83%E5%AD%A6%E4%B9%A0.pptx)
