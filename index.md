@@ -5,7 +5,7 @@
 ## Call for papers
 ### Conferences
 * [2020 AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,SP,GR,DM)
-* [Conference: International Conference on Pattern Recognition (ICPR 2020)](https://www.micc.unifi.it/icpr2020/index.php/organizing-team/)
+* [Conference: International Conference on Neural Information Processing (ICONIP2020)](https://www.apnns.org/ICONIP2020/)
   * Paper submission deadline: March 2, 2020.
   * CCF C类
   
