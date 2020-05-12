@@ -6,7 +6,7 @@
 ### Conferences
 * [2020 AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,SP,GR,DM)
 * [Conference: International Conference on Neural Information Processing (ICONIP2020)](https://www.apnns.org/ICONIP2020/)
-  * Paper submission deadline: March 2, 2020.
+  * Paper submission deadline: June 1, 2020.
   * CCF C类
   
 ### Journals
