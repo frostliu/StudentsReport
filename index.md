@@ -152,7 +152,7 @@
 * 2020-05-14，彭旭阳，[Parameters-GAN](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200514-%E5%BD%AD%E6%97%AD%E9%98%B3-Parameters-GAN.pptx)
 * 2020-05-14，昝畅通，[Unsupervised meta-learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200514-%E6%98%9D%E7%95%85%E9%80%9A-Unsupervised%20meta-learning.pptx)
 * 2020-05-14，王飞，[Table-to-Text Generation by Structure-Aware Seq2seq Learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200514-%E7%8E%8B%E9%A3%9E-Table-to-Text%20Generation%20by%20Structure-Aware%20Seq2seq%20Learning.pptx)
-* 2020-05-07，傅司超，[基于图卷积神经网络的半监督分类算法研究]
+* 2020-05-07，傅司超，基于图卷积神经网络的半监督分类算法研究
 * 2020-05-07，李乔楠，[ 碳纤维抽油杆显微图像-检测与分析系统的研究与开发](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E6%9D%8E%E4%B9%94%E6%A5%A0-%E6%AF%95%E4%B8%9A%E7%AD%94%E8%BE%A9.pptx)
 * 2020-05-07，王飞，[Table to Text](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E7%8E%8B%E9%A3%9E-%E8%A1%A8%E5%88%B0%E6%96%87%E6%9C%AC%E8%BD%AC%E6%8D%A2.pptx)
 * 2020-05-07，昝畅通，[Unsupervised meta-learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200507-%E6%98%9D%E7%95%85%E9%80%9A-%E6%97%A0%E7%9B%91%E7%9D%A3%E5%85%83%E5%AD%A6%E4%B9%A0.pptx)
