@@ -149,6 +149,8 @@
 
 ## 每周进展报告
 ### 2020
+* 2020-05-28，吕云雪，[Prediction of remaining oil based on deep learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200528-%E5%90%95%E4%BA%91%E9%9B%AA-Prediction%20of%20remaining%20oil%20based%20on%20deep%20learning.pptx)
+* 2020-05-28，刘瑶，[Low frequency extrapolation in full waveform inversion with deep learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200528-%E5%88%98%E7%91%B6-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A8%E6%B3%A2%E5%BD%A2%E5%8F%8D%E6%BC%94%E4%B8%AD%E7%9A%84%E4%BD%8E%E9%A2%91%E5%A4%96%E6%8E%A8.pptx)
 * 2020-05-14，彭旭阳，[Parameters-GAN](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200514-%E5%BD%AD%E6%97%AD%E9%98%B3-Parameters-GAN.pptx)
 * 2020-05-14，昝畅通，[Unsupervised meta-learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200514-%E6%98%9D%E7%95%85%E9%80%9A-Unsupervised%20meta-learning.pptx)
 * 2020-05-14，王飞，[Table-to-Text Generation by Structure-Aware Seq2seq Learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200514-%E7%8E%8B%E9%A3%9E-Table-to-Text%20Generation%20by%20Structure-Aware%20Seq2seq%20Learning.pptx)
