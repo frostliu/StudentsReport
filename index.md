@@ -149,6 +149,16 @@
 
 ## 每周进展报告
 ### 2020
+* 2020-06-19，昝畅通，[Boosting Few-Shot Learning With Adaptive Margin Loss](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200619-%E6%98%9D%E7%95%85%E9%80%9A-Boosting%20Few-Shot%20Learning%20With%20Adaptive%20Margin%20Loss%20.pptx)
+* 2020-06-19，吕云雪，[Recent Developments Combining Ensemble Smoother and Deep Generative Networks for Facies History Matching](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200619-%E5%90%95%E4%BA%91%E9%9B%AA-Recent%20Developments%20Combining%20Ensemble%20Smoother%20and%20Deep%20Generative%20Networks%20for%20Facies%20History%20Matching.pptx)
+* 2020-06-11，蔡玉颖，[基于域间流形结构关系的迁移学习方法探究](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200611-%E8%94%A1%E7%8E%89%E9%A2%96-%E5%9F%BA%E4%BA%8E%E5%9F%9F%E9%97%B4%E6%B5%81%E5%BD%A2%E7%BB%93%E6%9E%84%E5%85%B3%E7%B3%BB%E7%9A%84%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%8E%A2%E7%A9%B6.ppt)
+* 2020-06-11，潘婷，[快速图卷积神经网络中局部结构保持方法研究](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200611-%E6%BD%98%E5%A9%B7-Fast%E5%9B%BE%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%B1%80%E9%83%A8%E7%BB%93%E6%9E%84%E4%BF%9D%E6%8C%81%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6.pptx
+)
+* 2020-06-11，彭旭阳，[GANalyze Toward Visual Definitions of Cognitive Image Properties](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200611-%E5%BD%AD%E6%97%AD%E9%98%B3-GANalyze%20Toward%20Visual%20Definitions%20of%20Cognitive%20Image%20Properties.pptx)
+* 2020-06-11，刘东凯，[机动车检测用户信息分析与管理系统](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200611-%E5%88%98%E4%B8%9C%E5%87%AF-%E6%9C%BA%E5%8A%A8%E8%BD%A6%E6%A3%80%E6%B5%8B%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90%E4%B8%8E%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.pptx)
+* 2020-06-04，许睿，[meta learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200604-%E8%AE%B8%E7%9D%BF-meta-learning.pptx
+)
+* 2020-06-04，王飞，[Unsupervised Domain Adaptation on Reading Comprehension](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200604-%E7%8E%8B%E9%A3%9E-Unsupervised%20Domain%20Adaptation%20on%20Reading%20Comprehension.pptx)
 * 2020-05-28，吕云雪，[Prediction of remaining oil based on deep learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200528-%E5%90%95%E4%BA%91%E9%9B%AA-Prediction%20of%20remaining%20oil%20based%20on%20deep%20learning.pptx)
 * 2020-05-28，刘瑶，[Low frequency extrapolation in full waveform inversion with deep learning](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200528-%E5%88%98%E7%91%B6-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A8%E6%B3%A2%E5%BD%A2%E5%8F%8D%E6%BC%94%E4%B8%AD%E7%9A%84%E4%BD%8E%E9%A2%91%E5%A4%96%E6%8E%A8.pptx)
 * 2020-05-14，彭旭阳，[Parameters-GAN](https://github.com/frostliu/StudentsReport/blob/master/StudentsReport_PPT/20200514-%E5%BD%AD%E6%97%AD%E9%98%B3-Parameters-GAN.pptx)
